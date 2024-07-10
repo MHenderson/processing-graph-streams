@@ -1,3 +1,3 @@
 # processing-graph-streams
 
-![Colouring of the Frucht graph](svg/frucht.svg)
+![Colouring of the Frucht graph](png/frucht.png)
