@@ -2,6 +2,8 @@ svg_options:=-s\
              -Tpng\
              -Gsize=4,4\!\
              -Groot=3\
+	     -Gbgcolor=transparent\
+	     -Gmargin=0.5\
              -Nwidth=0.3\
              -Nfixedsize=true\
              -Nlabel=\
