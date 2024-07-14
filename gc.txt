@@ -1,0 +1,4 @@
+Frucht graph: 12 nodes 18, edges.
+Heawood graph: 14 nodes 21, edges.
+Tutte graph: 46 nodes 69, edges.
+Totals: 72 nodes, 108 edges.

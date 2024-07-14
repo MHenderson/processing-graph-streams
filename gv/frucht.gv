@@ -1,5 +1,4 @@
-graph  {
-	graph [name="Frucht Graph"];
+graph "Frucht graph" {
 	0 -- 1;
 	0 -- 6;
 	0 -- 7;
